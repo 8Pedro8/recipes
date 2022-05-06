@@ -1,0 +1,30 @@
+#recipe-header, #heading {
+    text-align: center;
+}
+
+.cake-item {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, serif;
+    font-size: x-large;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+
+#cake-list {
+    background-color: aliceblue;
+}
+
+#recipe-img {
+    width: 300px;
+    height: auto;
+}
+
+.img-container {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    padding-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, serif;
+}
